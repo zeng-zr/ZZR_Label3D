@@ -1,0 +1,2 @@
+vidPath='C:\Users\zeng\Desktop\intern\origin_videos\0 (1).avi';
+save_clip(vidPath, 'Start', 1, 'End', 30*10,'PostFlank', 3779-30*10, 'FPS', 30, 'DrawTracks', false, 'DrawTimestamp', false,'DrawWings',false,'DrawCentroid',false)
